@@ -6,6 +6,6 @@ class QuestionnaireModule
 {
     public function check(): string
     {
-        return "Hi! from module";
+        return 'Hi! from module';
     }
 }
